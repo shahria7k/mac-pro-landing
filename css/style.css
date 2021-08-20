@@ -1,0 +1,20 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.nav-link{
+    /* font-weight: 300; */
+}
+button.active{
+    color: #fff;
+    background-color: #212529;
+    border-color: #212529;
+}
+.border-dark{
+
+    opacity: 1;
+}
+button:focus, button:active{
+    box-shadow: none!important;
+    outline: none!important;
+}
